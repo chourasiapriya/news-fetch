@@ -1,4 +1,7 @@
+#an amazing project
+
 from newsfetch.helpers import (get_chrome_web_driver, get_web_driver_options,
+                               
                                set_automation_as_head_less,
                                set_browser_as_incognito,
                                set_ignore_certificate_error)
